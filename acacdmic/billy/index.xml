@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billy on Billy Liggins</title>
+    <link>/billy/</link>
+    <description>Recent content in Billy on Billy Liggins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 23:16:44 +0100</lastBuildDate>
+    
+	<atom:link href="/billy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jupyter notebook</title>
+      <link>/billy/jupyter/</link>
+      <pubDate>Fri, 12 Apr 2019 23:16:44 +0100</pubDate>
+      
+      <guid>/billy/jupyter/</guid>
+      <description> Title The imports:
+import matplotlib.pyplot as plt %matplotlib inline  The simplest plot possible.
+fig,ax= plt.subplots() ax.plot(range(9),range(9)) fig.show()  </description>
+    </item>
+    
+    <item>
+      <title>Second blog</title>
+      <link>/billy/first-blog/</link>
+      <pubDate>Fri, 12 Apr 2019 23:16:44 +0100</pubDate>
+      
+      <guid>/billy/first-blog/</guid>
+      <description>second blog This should be it!
+What to write about.</description>
+    </item>
+    
+  </channel>
+</rss>

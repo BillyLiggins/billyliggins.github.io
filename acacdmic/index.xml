@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Billy Liggins on Billy Liggins</title>
-    <link>/</link>
+    <link>/acacdmic/</link>
     <description>Recent content in Billy Liggins on Billy Liggins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Dec 2019 22:02:03 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/acacdmic/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Billy</title>
-      <link>/billy/</link>
+      <link>/acacdmic/billy/</link>
       <pubDate>Fri, 12 Apr 2019 23:16:44 +0100</pubDate>
       
-      <guid>/billy/</guid>
+      <guid>/acacdmic/billy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landing Page</title>
-      <link>/contact/</link>
+      <link>/acacdmic/contact/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>/acacdmic/contact/</guid>
       <description></description>
     </item>
     
@@ -37,37 +37,37 @@
     
     <item>
       <title>Authors</title>
-      <link>/author/</link>
+      <link>/acacdmic/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/</guid>
+      <guid>/acacdmic/author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>/acacdmic/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>/acacdmic/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>/acacdmic/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/acacdmic/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>/acacdmic/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>/acacdmic/talk/</guid>
       <description></description>
     </item>
     

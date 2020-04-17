@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Billy Liggins</title>
-    <link>/post/</link>
+    <link>/acacdmic/post/</link>
     <description>Recent content in Posts on Billy Liggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/acacdmic/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jupiter</title>
-      <link>/post/jupiter/</link>
+      <link>/acacdmic/post/jupiter/</link>
       <pubDate>Mon, 02 Dec 2019 22:02:03 +0000</pubDate>
       
-      <guid>/post/jupiter/</guid>
+      <guid>/acacdmic/post/jupiter/</guid>
       <description>import matplotlib.pyplot as plt  plt.plot([23,4,5],[4,5,6])  [&amp;lt;matplotlib.lines.Line2D at 0x7f33c8692898&amp;gt;]  </description>
     </item>
     
     <item>
       <title>First blog</title>
-      <link>/post/first-blog/</link>
+      <link>/acacdmic/post/first-blog/</link>
       <pubDate>Fri, 12 Apr 2019 23:16:44 +0100</pubDate>
       
-      <guid>/post/first-blog/</guid>
+      <guid>/acacdmic/post/first-blog/</guid>
       <description>First blog This should be it!
 What to write about.</description>
     </item>
     
     <item>
       <title>Jupyter notebook</title>
-      <link>/post/jupyter/</link>
+      <link>/acacdmic/post/jupyter/</link>
       <pubDate>Fri, 12 Apr 2019 23:16:44 +0100</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>/acacdmic/post/jupyter/</guid>
       <description> Title The imports:
 import matplotlib.pyplot as plt %matplotlib inline  The simplest plot possible.
 fig,ax= plt.subplots() ax.plot(range(9),range(9)) fig.show()  </description>
